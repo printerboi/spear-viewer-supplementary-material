@@ -4,19 +4,19 @@ This submodule contains the scripts used to evaluate results collected during th
 
 ## Structure
 
-The script submodule is seperated into the following two files:
+The script submodule is separated into the following two files:
 
-- **runner.py**: Python script to execute a set of tasks repeatedly and measure the used energy for each repetition. Will yield a `result.csv`containing the calculated energy per repetition for each given task.
-- **parser.py**: Python script to parse a given `result.csv` yielding a pyplot GUI with a boxplot and JSON output to stdout containing the calculated average for each task and the corresponding standard deviation.
+- **runner.py**: Python script to execute a set of tasks repeatedly and measure the used energy for each repetition. Will yield a `result.csv` containing the calculated energy per repetition for each given task.
+- **parser.py**: Python script to parse a given `result.csv` yielding a pyplot GUI with a box plot and JSON output to stdout containing the calculated average for each task and the corresponding standard deviation.
 
 ## Installation
 
-To use the scripts make sure python 3 is installed. We used python `3.12.7`.
-Make sure `matplotlib` is installed and you are using an Intel CPU with a architecture as recent as the Sandy-bridge architecture as the RAPL registers are only available on some CPUs (See a list of architectures [here](https://web.eece.maine.edu/~vweaver/projects/rapl/rapl_support.html))
+To use the scripts, make sure python 3 is installed. We used python `3.12.7`.
+Make sure `matplotlib` is installed, and you are using an Intel CPU with an architecture as recent as the Sandy-bridge architecture, as the RAPL registers are only available on some CPUs (See a list of architectures [here](https://web.eece.maine.edu/~vweaver/projects/rapl/rapl_support.html))
 
 ## Execution
 
-To execute the scripts use the following explanations:
+To execute the scripts, use the following explanations:
 
 ### runner.py
 
@@ -63,3 +63,4 @@ study
 ```
 
 The script will expect the path `study/result/results.csv` as input
+

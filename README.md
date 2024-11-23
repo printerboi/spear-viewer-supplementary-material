@@ -14,21 +14,22 @@ The repository is structured in the following way:
 
 ## Dependencies
 
-The SPEAR Viewer described in the corresponding work was developed on top of the SPEAR analysis tool. Both tools, with their installation instructions can be found here:
+The SPEAR Viewer described in the corresponding work was developed on top of the SPEAR analysis tool. Both tools, with their installation instructions, can be found here:
 
 - **SPEAR**:
-    - Github: https://github.com/printerboi/spear
+    - GitHub: https://github.com/printerboi/spear
     - Zenodo: 
 - **SPEAR Viewer**:
-    - Github: https://github.com/printerboi/spear-viewer
+    - GitHub: https://github.com/printerboi/spear-viewer
     - Zenodo:  
 
 ## Sharing & reuse
 
-Please feel free to share this supplementary work and reuse it in your work. While reuse please attribute this work. For citing please use the following bibtex entry:
+Please feel free to share this supplementary work and reuse it in your work. While reuse, please attribute this work. For citing, please use the following BibTeX entry:
 
 ```
 @entry {
 
 }
 ```
+
