@@ -1,0 +1,18 @@
+{
+    "cpu": {
+        "architecture": "6",
+        "cores": "4",
+        "name": "Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz"
+    },
+    "endOfExecution": "1726657429872330447",
+    "iterationsString": "10000",
+    "profile": {
+        "Call": 0.029415086364746094,
+        "Division": 0.029982890319824217,
+        "Memory": 0.029633717346191406,
+        "Other": 0.030162103271484376,
+        "Programflow": 0.029793141174316407
+    },
+    "startOfExecution": "1726657354715517377",
+    "unit": "0.000015"
+}
