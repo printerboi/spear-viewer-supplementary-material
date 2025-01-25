@@ -1,0 +1,345 @@
+[
+  {
+    "type": "Title",
+    "result": {
+      "userName": "krebs",
+      "hostName": "ls5esprimo6",
+      "homeDir": "/home/krebs/",
+      "exePath": "/usr/bin/fastfetch",
+      "userShell": "/bin/bash"
+    }
+  },
+  {
+    "type": "Separator",
+    "error": "Unsupported for JSON format"
+  },
+  {
+    "type": "OS",
+    "result": {
+      "buildID": "",
+      "codename": "bookworm",
+      "id": "debian",
+      "idLike": "",
+      "name": "Debian GNU/Linux",
+      "prettyName": "Debian GNU/Linux 12 (bookworm)",
+      "variant": "",
+      "variantID": "",
+      "version": "12.7",
+      "versionID": "12.7"
+    }
+  },
+  {
+    "type": "Host",
+    "result": {
+      "family": "",
+      "name": "ESPRIMO E700",
+      "version": "",
+      "sku": "S26361-Kxxx-Vyyy",
+      "vendor": "FUJITSU",
+      "serial": "",
+      "uuid": ""
+    }
+  },
+  {
+    "type": "Kernel",
+    "result": {
+      "architecture": "x86_64",
+      "name": "Linux",
+      "release": "6.1.0-26-amd64",
+      "version": "#1 SMP PREEMPT_DYNAMIC Debian 6.1.112-1 (2024-09-30)",
+      "displayVersion": "",
+      "pageSize": 4096
+    }
+  },
+  {
+    "type": "Uptime",
+    "result": {
+      "uptime": 6649420,
+      "bootTime": "2024-11-13T10:52:24.322+0100"
+    }
+  },
+  {
+    "type": "Packages",
+    "result": {
+      "all": 2473,
+      "apk": 0,
+      "brew": 0,
+      "brewCask": 0,
+      "choco": 0,
+      "dpkg": 2473,
+      "emerge": 0,
+      "eopkg": 0,
+      "flatpakSystem": 0,
+      "flatpakUser": 0,
+      "nixDefault": 0,
+      "nixSystem": 0,
+      "nixUser": 0,
+      "pacman": 0,
+      "paludis": 0,
+      "pkg": 0,
+      "pkgtool": 0,
+      "macports": 0,
+      "rpm": 0,
+      "scoop": 0,
+      "snap": 0,
+      "winget": 0,
+      "xbps": 0,
+      "opkg": 0,
+      "am": 0,
+      "sorcery": 0,
+      "guixSystem": 0,
+      "guixUser": 0,
+      "guixHome": 0,
+      "linglong": 0,
+      "pacstall": 0,
+      "pacmanBranch": ""
+    }
+  },
+  {
+    "type": "Shell",
+    "result": {
+      "exe": "bash",
+      "exeName": "bash",
+      "exePath": "/usr/bin/bash",
+      "pid": 50796,
+      "ppid": 50770,
+      "processName": "bash",
+      "prettyName": "bash",
+      "version": "5.2.15",
+      "tty": 1
+    }
+  },
+  {
+    "type": "Display",
+    "result": [
+      {
+        "id": 841830468,
+        "name": "ASUS PB287Q",
+        "primary": true,
+        "output": {
+          "width": 2560,
+          "height": 1440
+        },
+        "scaled": {
+          "width": 2560,
+          "height": 1440
+        },
+        "physical": {
+          "width": 620,
+          "height": 340
+        },
+        "refreshRate": 59.95,
+        "rotation": 0,
+        "bitDepth": 0,
+        "hdrStatus": "Unsupported",
+        "type": "External",
+        "manufactureDate": {
+          "year": 2017,
+          "week": 48
+        },
+        "serial": 189345,
+        "platformApi": "wayland-global"
+      }
+    ]
+  },
+  {
+    "type": "DE",
+    "result": {
+      "processName": "gnome-shell",
+      "prettyName": "GNOME",
+      "version": "43.9"
+    }
+  },
+  {
+    "type": "WM",
+    "result": {
+      "processName": "gnome-shell",
+      "prettyName": "Mutter",
+      "protocolName": "Wayland",
+      "pluginName": ""
+    }
+  },
+  {
+    "type": "WMTheme",
+    "result": "Adwaita"
+  },
+  {
+    "type": "Theme",
+    "result": {
+      "theme1": "",
+      "theme2": "Adwaita [GTK2/3/4]"
+    }
+  },
+  {
+    "type": "Icons",
+    "result": {
+      "icons1": "",
+      "icons2": "Adwaita [GTK2/3/4]"
+    }
+  },
+  {
+    "type": "Font",
+    "result": {
+      "display": "Cantarell (11pt) [GTK2/3/4]",
+      "fonts": [
+        "",
+        "Cantarell (11pt)",
+        "Cantarell (11pt)",
+        "Cantarell (11pt)"
+      ]
+    }
+  },
+  {
+    "type": "Cursor",
+    "result": {
+      "theme": "Adwaita",
+      "size": "24"
+    }
+  },
+  {
+    "type": "Terminal",
+    "result": {
+      "processName": "gnome-terminal-",
+      "exe": "/usr/libexec/gnome-terminal-server",
+      "exeName": "gnome-terminal-server",
+      "exePath": "/usr/libexec/gnome-terminal-server",
+      "pid": 50770,
+      "ppid": 15506,
+      "prettyName": "GNOME Terminal",
+      "version": "3.46.8",
+      "tty": ""
+    }
+  },
+  {
+    "type": "TerminalFont",
+    "result": {
+      "font": {
+        "name": "Monospace",
+        "size": "11",
+        "styles": [],
+        "pretty": "Monospace (11pt)"
+      },
+      "fallback": {
+        "name": "",
+        "size": "",
+        "styles": [],
+        "pretty": ""
+      }
+    }
+  },
+  {
+    "type": "CPU",
+    "result": {
+      "cpu": "Intel(R) Core(TM) i5-2500",
+      "vendor": "GenuineIntel",
+      "cores": {
+        "physical": 4,
+        "logical": 4,
+        "online": 4
+      },
+      "frequency": {
+        "base": 1913,
+        "max": 3700
+      },
+      "coreTypes": [],
+      "temperature": null
+    }
+  },
+  {
+    "type": "GPU",
+    "result": [
+      {
+        "index": null,
+        "coreCount": null,
+        "coreUsage": null,
+        "memory": {
+          "dedicated": {
+            "total": null,
+            "used": null
+          },
+          "shared": {
+            "total": null,
+            "used": null
+          }
+        },
+        "driver": "i915",
+        "name": "2nd Generation Core Processor Family Integrated Graphics Controller",
+        "temperature": null,
+        "type": "Integrated",
+        "vendor": "Intel",
+        "platformApi": "DRM (card0)",
+        "frequency": 1100,
+        "deviceId": 20
+      }
+    ]
+  },
+  {
+    "type": "Memory",
+    "result": {
+      "total": 16636227584,
+      "used": 3045076992
+    }
+  },
+  {
+    "type": "Swap",
+    "result": {
+      "total": 1023406080,
+      "used": 0
+    }
+  },
+  {
+    "type": "Disk",
+    "result": [
+      {
+        "bytes": {
+          "available": 209949102080,
+          "free": 222417559552,
+          "total": 243987636224,
+          "used": 21570076672
+        },
+        "files": {
+          "total": 15204352,
+          "used": 342072
+        },
+        "filesystem": "ext4",
+        "mountpoint": "/",
+        "mountFrom": "/dev/sda1",
+        "name": "",
+        "volumeType": [
+          "Regular"
+        ],
+        "createTime": "2024-08-13T13:14:24.000+0200"
+      }
+    ]
+  },
+  {
+    "type": "LocalIp",
+    "result": [
+      {
+        "name": "enp0s25",
+        "defaultRoute": true,
+        "ipv4": "129.217.26.106/24"
+      }
+    ]
+  },
+  {
+    "type": "Battery",
+    "result": []
+  },
+  {
+    "type": "PowerAdapter",
+    "result": []
+  },
+  {
+    "type": "Locale",
+    "result": "de_DE.UTF-8"
+  },
+  {
+    "type": "Break",
+    "error": "Unsupported for JSON format"
+  },
+  {
+    "type": "Colors",
+    "error": "Unsupported for JSON format"
+  }
+]

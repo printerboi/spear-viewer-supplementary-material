@@ -1,0 +1,33 @@
+# Recording protocol for participant \#812
+
+- [00:40] Google "cpp calculate power"
+- [02:20] Commented custom pow function out
+- [03:50] Google "cpp calculate power efficiently"
+- [04:30] Adapts solution from stack overflow to replace custom pow function
+- [08:40] Restored old pow function
+- [09:30] Tried another approach for custom pow function 
+- [14:00] Switch to task_4
+- [15:40] Google "efficient caesar encryption"
+- [16:05] Google "efficient caesar encryption  cpp"
+- [17:55] Started adding a second rotate function with code from stack overflow
+- [19:00] Google "cpp caesar rotation"
+- [20:35] Google "cpp get ascii value char"
+- [21:30] Google "int to ascii cpp"
+- [23:25] Google "cpp ascii caesar cipher"
+- [25:00] Google "cpp ascii caesar rotate"
+- [26:00] Starts replacing calculation inside original rotate with their custom but wrong solution
+- [27:07] Google "cpp caesar rotate"
+- [27:30] Google "cpp rotate char"
+- [28:05] Google "cpp rotate char ceasar"
+- [28:15] Google "cpp ceasar cipher"
+- [30:00] Switch to task_5
+- [34:10] Google "cpp arrays"
+- [34:50] Google "cpp push back vs. append"
+- [36:30] Google "cpp array of std vectors"
+- [37:40] Google "cpp list of vectors"
+- [38:40] Google "std::vector"
+- [39:15] Google "std::vector insert"
+- [39:23] Google "std::vector append"
+- [39:48] Google "std::vector append efficiently"
+- [41:03] Google "std::vector push back efficiently"
+- [44:47] Done
