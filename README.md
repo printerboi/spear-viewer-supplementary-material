@@ -29,6 +29,11 @@ The SPEAR Viewer described in the corresponding work was developed on top of the
 Please feel free to share this supplementary work and reuse it in your work. While reuse, please attribute this work. For citing, please use the following BibTeX entry:
 
 ```
-
+@misc{pack,
+  title = {Supplementary Material {{SPEAR}} Viewer},
+  author = {{Maximilian Krebs}},
+  doi = {10.5281/zenodo.14739396},
+  url = {https://doi.org/10.5281/zenodo.14739396}
+}
 ```
 
